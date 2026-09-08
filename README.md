@@ -25,7 +25,7 @@ A simple and beginner-friendly Rock-Paper-Scissors Game built using Python. This
 
 Rock-Paper-Scissors/
 │
-├── rps.py
+├── RPS.py
 └── README.md
 
 ## ▶️ How to Run
@@ -172,3 +172,5 @@ This project was created as part of a Python Internship Task. It helped me under
 ## 👨‍💻 Author
 
 **Arya Sannigrahi**
+
+CSE Student
